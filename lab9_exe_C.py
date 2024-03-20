@@ -54,7 +54,7 @@ def main () :
             choice = input ("Choose an option:\n1. List all products\n2. Search for a product\n3. Exit\n>")
 
             if choice == '1':
-                # runs the "Listing all prodcts"
+                # runs the "Listing all prodcts"s
                 list_all_products(products)
                 pass
             elif choice == '2':
